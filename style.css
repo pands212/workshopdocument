@@ -51,8 +51,8 @@ table {
 
 @font-face {
   font-family: 'ABCWhyte-Regular-Trial';
-  src: url('../assets/font/ABCWhyte-Regular-Trial.woff');
-       font-weight: 400;
+  src: url('assets/font/ABCWhyte-Regular-Trial.otf');
+  font-weight: 400;
 }
 
 body {
