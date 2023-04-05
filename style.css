@@ -142,6 +142,16 @@ figcaption {
   font-size: 9px;
 }
 
+.cover {
+  margin-top: 10px;
+
+}
+
+.p-cover {
+  font-size: 10px;
+  margin-top: 20px;
+}
+
 .container { 
   display: grid;
   grid-template-columns: repeat(6, 1fr);
