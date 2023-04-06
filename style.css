@@ -144,6 +144,7 @@ figcaption {
 
 .cover {
   margin-top: 50px;
+  margin-left: 20px;
 
 }
 
@@ -409,3 +410,8 @@ a {
   margin-top: 200px;
   font-style: italic;
 }
+
+.longlivesuccession {
+  margin-left: 20px;
+}
+
